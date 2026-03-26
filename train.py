@@ -20,7 +20,7 @@ def main():
     parser.add_argument(
         "--algo",
         type=str,
-        default="scmcc",
+        default="micc",
         help="Algorithm name.",
     )
     parser.add_argument(
